@@ -6,7 +6,7 @@ I'm a software development student based in Vancouver, BC. I always aim to creat
 <h3> About Me </h3>
 
 - 😄  Pronouns: she/her
-- 🎓  I'm currently finishing up my last semester of the <a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">Computer Systems Technology </a>diploma program at BCIT, specializing in Data Communications and Internetworking.
+- 🎓  I recently graduated from the <a href="https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/">Computer Systems Technology </a>diploma program at BCIT, specializing in Data Communications and Internetworking.
 - 🛠️ I'm currently tinkering with Python, specifically 
 <a href="https://opencv.org/">OpenCV</a> and 
 <a href="https://flask.palletsprojects.com/en/1.1.x/">Flask</a>.
