@@ -1,6 +1,6 @@
 <h1> Hello there, I'm Mikhaela! </h1>
 
-I'm a software development student based in Vancouver, BC. I always aim to create an impact on my community by providing technical solutions and bringing people together.
+I'm a software developer based in Vancouver, BC. I always aim to create an impact on my community by providing technical solutions and bringing people together.
 
 
 <h3> About Me </h3>
